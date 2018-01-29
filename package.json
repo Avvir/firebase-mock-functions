@@ -2,9 +2,8 @@
   "name": "firebase-mock-functions",
   "version": "0.3.0",
   "description": "Test Firebase database triggers with a mock database",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
-    "prepare": "./node_modules/gulp/bin/gulp.js build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
